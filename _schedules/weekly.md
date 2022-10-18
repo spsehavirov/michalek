@@ -1,66 +1,39 @@
 ---
 timeline:
-  - '9:00 AM'
-  - '9:30 AM'
-  - '10:00 AM'
-  - '10:30 AM'
-  - '11:00 AM'
-  - '11:30 AM'
-  - '12:00 PM'
-  - '12:30 PM'
-  - '1:00 PM'
-  - '1:30 PM'
-  - '2:00 PM'
-  - '2:30 PM'
-  - '3:00 PM'
-  - '3:30 PM'
-  - '4:00 PM'
-  - '4:30 PM'
-  - '5:00 PM'
-  - '5:30 PM'
+#  - '07:05'
+#  - '07:50'
+#  - '07:55'
+#  - '08:40'
+#  - '08:45'
+#  - '09:30'
+#  - '09:40'
+#  - '10:25'
+#  - '10:35'
+#  - '11:20'
+#  - '11:35'
+#  - '12:20'
+#  - '12:25'
+#  - '13:10'
+  - '13:15'
+  - '14:00'
+  - '14:05'
+  - '15:00'
+  - '16:00'
+#  - '17:00'
 schedule:
-  - name: Monday
+  - name: Pondělí
+  - name: Úterý
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
-  - name: Tuesday
-  - name: Wednesday
+      - name: Sudý
+        start: 2:05 PM
+        end: 3:00 PM
+        location: 412 MIT
+  - name: Středa
+  - name: Čtvrtek
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
-  - name: Thursday
-  - name: Friday
-    events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Lichý
+        start: 2:05 PM
+        end: 3:00 PM
+        location: 412 MIT
+  - name: Pátek
 ---

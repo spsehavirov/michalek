@@ -1,17 +1,18 @@
 ---
-title: Introduction to Java
+title: 4. ročník TEORIE
+subject: ops
 ---
 
-Sep 28
-: [Java & Git](#)
+1
+: [Krátká historie](#)
   : [1.1](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
+2
+: **OS**{: .label .label-green }[Jak vznikl](#)
   : [Solution](#)
 
-Sep 30
-: [Variables & Objects](#)
+3
+: **OS**{: .label .label-green }[Základní přehled](#)
   : [1.2](#), [2.1](#)
 
 Oct 1

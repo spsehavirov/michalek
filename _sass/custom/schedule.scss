@@ -96,11 +96,11 @@
       background-color: $grey-dk-000;
     }
 
-    &.section {
+    &.section, &.sudý {
       background-color: $purple-000;
     }
 
-    &.office-hours {
+    &.office-hours, &.lichý {
       background-color: $blue-000;
     }
   }

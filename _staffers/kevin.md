@@ -1,9 +1,9 @@
 ---
-name: Kevin Lin
+name: Tomáš Michalek
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: tomas.michalek@spsehavirov.cz
+website: https://github.com/michto01/
+#photo: kevin.jpg
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Požádejte o schůzku](https://outlook.office365.com/owa/calendar/Individulnkonzultace@spsehavirov.cz/bookings/){: .btn .btn-outline }
