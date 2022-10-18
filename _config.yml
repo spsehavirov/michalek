@@ -17,7 +17,7 @@ title: Tomáš Michalek
 tagline: Intranetové zdroje k výuce
 description: Zdroje, materiály a pomoc k výuce na SPŠE Havířov
 author: Tomáš Michalek
-baseurl: '/~michalek/' # the subpath of your site, e.g. /blog
+baseurl: '/' # the subpath of your site, e.g. /blog
 #url: 'http://intranet.spsehavirov.cz' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"] #files/•
 
