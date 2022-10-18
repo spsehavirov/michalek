@@ -1,14 +1,13 @@
 ---
-title: 3. ročník CVIČENÍ
+title: 3. ročník CVIČENÍ (HW)
 subject: ops
 ---
 
 1
 : [Princip magnetického záznamu](#)
-  : [1.1](#), [1.2](#)
 
 2
-: [Souborový system FAT](#)
+: [Souborový systém FAT](#)
   : [pdf](#)
 
 3
@@ -22,3 +21,6 @@ subject: ops
 5
 : [RAID](#)
   : [pdf](#)
+
+6
+: [Cloud computing](#)
