@@ -4,5 +4,5 @@ subject: ops
 ---
 
 1
-: [Opakování a změny proti HW](#)
-: [Blikání LED diodami](#)
+: **Opakování a změny proti HW**
+: **Blikání LED diodami**

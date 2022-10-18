@@ -24,6 +24,14 @@ V mých hodinách pak prakticky procvičujeme znalosti programování v jazyce C
 
 ## (CIT) Číslicová technika
 
+V `číslicová technice` se seznámíme s bit, bajty a základními obvody, které slouží k sestavení počítače:
+
+* Hradla
+  * AND, OR, NOT
+  * NAND, NOR, XOR
+* Klopné obvody
+* Čítače
+
 ## (HAW) Hardware
 
 ## (OPS) Operační systémy
@@ -31,3 +39,5 @@ V mých hodinách pak prakticky procvičujeme znalosti programování v jazyce C
 Materiály k předmětům OPS3 a OPS4.
 
 ## (POS) Počitačové sítě
+
+V předmětu `počítačové sítě` budeme pracovat s síťovými prvky od firmy CISCO a MikroTik.
